@@ -6,5 +6,6 @@ public class tema {
 		// TODO Auto-generated method stub
 
 	}
+	System.out.println("Acum facem push din Git in Eclipse!");
 
 }
